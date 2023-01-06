@@ -98,7 +98,13 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
         src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="25" height="25" /> </a>
   </p>
- 
+
+---
+#### Social Media
+<p align="left">
+    <a href="https://linkedin.com/in/www.linkedin.com/in/arcolmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arcolmen" height="25" width="25" /></a>
+</p>
+
 ---
 ### My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArmandoColMen&theme=dark&border_radius=5)](https://git.io/streak-stats)
