@@ -100,7 +100,7 @@
   </p>
  
 ---
-#### My stats
+### My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArmandoColMen&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandoColMen&show_icons=true&theme=radical)
